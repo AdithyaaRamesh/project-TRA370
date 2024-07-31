@@ -1,2 +1,0 @@
-/usr/bin/ar qc libcrazyflieLibCpp.a CMakeFiles/crazyflieLibCpp.dir/src/ConnectionWrapper.cpp.o CMakeFiles/crazyflieLibCpp.dir/src/LoggingCrazyflieWrapper.cpp.o CMakeFiles/crazyflieLibCpp.dir/src/ConnectionWorker.cpp.o CMakeFiles/crazyflieLibCpp.dir/src/Crazyflie.cpp.o CMakeFiles/crazyflieLibCpp.dir/src/Toc.cpp.o CMakeFiles/crazyflieLibCpp.dir/src/TocWrapper.cpp.o CMakeFiles/crazyflieLibCpp.dir/src/debug.cpp.o CMakeFiles/crazyflieLibCpp.dir/src/Log.cpp.o
-/usr/bin/ranlib libcrazyflieLibCpp.a

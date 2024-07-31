@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/example_broadcast.dir/examples/broadcast.cpp.o -o example_broadcast  libcrazyflieLinkCpp.a -lpthread /usr/lib/x86_64-linux-gnu/libusb-1.0.so 

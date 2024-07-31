@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/example_logConnectionWorker.dir/examples/logConnectionWorker.cpp.o -o example_logConnectionWorker  libcrazyflieLibCpp.a crazyflie-link-cpp/libcrazyflieLinkCpp.a -lpthread /usr/lib/x86_64-linux-gnu/libusb-1.0.so 
