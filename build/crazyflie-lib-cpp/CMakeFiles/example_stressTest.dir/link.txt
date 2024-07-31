@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/example_stressTest.dir/examples/stressTest.cpp.o -o example_stressTest  libcrazyflieLibCpp.a crazyflie-link-cpp/libcrazyflieLinkCpp.a -lpthread /usr/lib/x86_64-linux-gnu/libusb-1.0.so 

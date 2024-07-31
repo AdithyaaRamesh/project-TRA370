@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/example_resetUsb.dir/examples/resetUsb.cpp.o -o example_resetUsb  libcrazyflieLibCpp.a crazyflie-link-cpp/libcrazyflieLinkCpp.a -lpthread /usr/lib/x86_64-linux-gnu/libusb-1.0.so 

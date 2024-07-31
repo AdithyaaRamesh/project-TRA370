@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/example_connectionWorkerTest.dir/examples/connectionWorkerTest.cpp.o -o example_connectionWorkerTest  libcrazyflieLibCpp.a crazyflie-link-cpp/libcrazyflieLinkCpp.a -lpthread /usr/lib/x86_64-linux-gnu/libusb-1.0.so 
