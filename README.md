@@ -22,3 +22,31 @@ A C++ interface that allows for relaying data from Crazyflie 2.x drone to OpenDL
 3) `cmake ..`
 4) `make` (Some other example programs from crazyflie-lib-cpp repo. will also be downloaded)
 5) `./interface` 
+
+# Simulation
+
+The conetrack folder in the simulation folder contains the objects in the 3D simulation including the texture and the .obj files for the vehicle 
+## Prerequisites
+
+1. Install *Docker:* https://www.docker.com/get-started.
+2. Install *Docker Compose:*https://docs.docker.com/compose/install/
+
+## Setup Instructions
+
+1. *Allow Docker to Access Desktop Environment:*
+
+   Run the following command to enable Docker to open new windows on the display:
+   bash
+   xhost +
+   
+   Note: This step needs to be repeated each time you restart your program.
+
+2. *Start the Application:*
+
+   Launch the application using the following command:
+   bash
+   docker-compose -f simulation-kiwi-v7.yml up
+   
+
+- *Docker*: Ensure Docker is installed for your platform. You can download it from the 
+- *docker-compose*: Install docker-compose to manage multi-container Docker applications. Follow the installation guide.
