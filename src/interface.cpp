@@ -67,7 +67,8 @@ int main(int argc, char **argv)
 
    
     // receiving data from the systems connected to 111(refer to opendlv)
-    
+
+    // this part needs modifications
     cluon::OD4Session od4{111, [](cluon::data::Envelope &&envelope) noexcept {
         if (envelope.dataType() == PositionData::ID()) { // PositionData ID
             PositionData receivedMsg = cluon::extractMessage<PositionData>(std::move(envelope));
