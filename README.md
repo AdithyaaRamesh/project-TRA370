@@ -14,6 +14,8 @@ A C++ interface that allows for relaying data from Crazyflie 2.x drone to OpenDL
 `option(BUILD_PYTHON_BINDINGS "Generate Python Bindings" OFF)`
 `option(BUILD_CPP_EXAMPLES "Generate C++ Examples" OFF)`
 
+4) Change the `address` in crazyflie object to match the address of your crazyflie.
+
 ## How to install and then compile:
 1) `git clone --recursive https://github.com/Rishikeshvishnu/project-TRA370.git`
 2) `mkdir build && cd build`
