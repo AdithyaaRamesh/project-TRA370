@@ -22,3 +22,4 @@ A C++ interface that allows for relaying data from Crazyflie 2.x drone to OpenDL
 3) `cmake ..`
 4) `make` (Some other example programs from crazyflie-lib-cpp repo. will also be downloaded)
 5) `./interface` 
+sxs
