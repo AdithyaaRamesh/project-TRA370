@@ -20,5 +20,5 @@ A C++ interface that allows for relaying data from Crazyflie 2.x drone to OpenDL
 1) `git clone --recursive https://github.com/Rishikeshvishnu/project-TRA370.git`
 2) `mkdir build && cd build`
 3) `cmake ..`
-4) `make`
-5) `./interface` (Some other example programs from crazyflie-lib-cpp repo. will also be downloaded)
+4) `make` (Some other example programs from crazyflie-lib-cpp repo. will also be downloaded)
+5) `./interface` 
